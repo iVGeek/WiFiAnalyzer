@@ -41,3 +41,4 @@ if let wifiMonitor = WiFiMonitor() {
     // Keep the app running for monitoring
     RunLoop.current.run()
 }
+
